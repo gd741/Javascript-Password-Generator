@@ -1,7 +1,7 @@
 ## Password Generator Task ##
 Week 3 homework task involved coding a random password generator using javascript 
 
-## Acceptance criteria ##
+# Acceptance criteria #
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -20,7 +20,9 @@ THEN the password is either displayed in an alert or written to the page
 
 
 ## Image of site ##
-![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/Highscores.jpg)
+![alt text](https://github.com/gd741/Javascript-Password-Generator/blob/main/images/pwgen1.jpg)
+![alt text](https://github.com/gd741/Javascript-Password-Generator/blob/main/images/pwgen2.jpg)
+![alt text](https://github.com/gd741/Javascript-Password-Generator/blob/main/images/pwgen3.jpg)
 
 ## Site URL ##
 https://gd741.github.io/Javascript-Password-Generator/
