@@ -23,5 +23,5 @@ THEN the password is either displayed in an alert or written to the page
 ![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/Highscores.jpg)
 
 ## Site URL ##
-
+https://gd741.github.io/Javascript-Password-Generator/
 
