@@ -1,5 +1,5 @@
 ## Password Generator Task ##
-Week 3 homework task involved coding a random password generator using javascript along with appropriate syntax.
+Week 3 homework task involved coding a random password generator using javascript 
 
 ## Acceptance criteria ##
 GIVEN I need a new, secure password
