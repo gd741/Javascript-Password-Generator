@@ -20,7 +20,7 @@ THEN the password is either displayed in an alert or written to the page
 
 
 ## Image of site ##
-![alt text](https://github.com/myname/Javascript-Quiz/blob/main/assets/images/Highscores.jpg)
+![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/Highscores.jpg)
 
 ## Site URL ##
 
