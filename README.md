@@ -1,7 +1,7 @@
-## Password Generator Task ##
+# Password Generator Task #
 Week 3 homework task involved coding a random password generator using javascript 
 
-# Acceptance criteria #
+## Acceptance criteria ##
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
