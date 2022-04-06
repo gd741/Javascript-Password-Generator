@@ -31,11 +31,22 @@ https://gd741.github.io/Javascript-Password-Generator/
 
 
 
+
 * [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-* [W3.CSS Modal - HTML/CSS/Javascript](https://www.w3schools.com/w3css/w3css_modal.asp)
+* [HTML DOCTYPE Declaration](https://www.w3schools.com/tags/tag_doctype.asp)
+
+* [Head Tag - Container for Metadata](https://www.w3schools.com/tags/tag_head.asp)
+
+* [Meta tag - Defines Metadata](https://www.w3schools.com/tags/tag_meta.asp)
+
+* [Link Tag - Linking the CSS](https://www.w3schools.com/tags/tag_link.asp#:~:text=The%20tag%20defines%20the,element%2C%20it%20contains%20attributes%20only.)
+
+* [Body Tag - Define Main Content](https://www.w3schools.com/tags/tag_body.asp#:~:text=The%20tag%20defines%20the,element%20in%20an%20HTML%20document.)
 
 * [Div Tag - Defining Divisions](https://www.w3schools.com/tags/tag_div.asp#:~:text=The%20tag%20defines%20a,inside%20the%20tag!)
+
+* [W3.CSS Modal - HTML/CSS/Javascript](https://www.w3schools.com/w3css/w3css_modal.asp)
 
 * [Paragraph Tag - Defining a Paragraph](https://www.w3schools.com/tags/tag_p.asp)
 
@@ -44,14 +55,3 @@ https://gd741.github.io/Javascript-Password-Generator/
 * [Input Tag - Inputting Information](https://www.w3schools.com/tags/tag_input.asp)
 
 * [Button Tag - Defines a Clickable Button](https://www.w3schools.com/tags/tag_button.asp)
-
-* [Link Tag - Linking the CSS](https://www.w3schools.com/tags/tag_link.asp#:~:text=The%20tag%20defines%20the,element%2C%20it%20contains%20attributes%20only.)
-
-* [Head Tag - Container for Metadata](https://www.w3schools.com/tags/tag_head.asp)
-
-* [Body Tag - Define Main Content](https://www.w3schools.com/tags/tag_body.asp#:~:text=The%20tag%20defines%20the,element%20in%20an%20HTML%20document.)
-
-* [HTML DOCTYPE Declaration](https://www.w3schools.com/tags/tag_doctype.asp)
-
-* [Meta tag - Defines Metadata](https://www.w3schools.com/tags/tag_meta.asp)
-
