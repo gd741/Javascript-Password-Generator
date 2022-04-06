@@ -42,7 +42,7 @@ https://gd741.github.io/Javascript-Password-Generator/
 
 * [HTML Input Tag - Inputting Information](https://www.w3schools.com/tags/tag_input.asp)
 
-* [HTML Button Tag](https://www.w3schools.com/tags/tag_button.asp)
+* [HTML Button Tag - Defines a Clickable Button](https://www.w3schools.com/tags/tag_button.asp)
 
 * [HTML Link Tag - Linking the CSS](https://www.w3schools.com/tags/tag_link.asp#:~:text=The%20tag%20defines%20the,element%2C%20it%20contains%20attributes%20only.)
 
