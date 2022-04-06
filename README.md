@@ -30,6 +30,7 @@ THEN the password is either displayed in an alert or written to the page
 https://gd741.github.io/Javascript-Password-Generator/
 
 
+
 * [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 * [W3.CSS Modal - HTML/CSS/Javascript](https://www.w3schools.com/w3css/w3css_modal.asp)
@@ -46,10 +47,10 @@ https://gd741.github.io/Javascript-Password-Generator/
 
 * [HTML Link Tag - Linking the CSS](https://www.w3schools.com/tags/tag_link.asp#:~:text=The%20tag%20defines%20the,element%2C%20it%20contains%20attributes%20only.)
 
-* [HTML Head Tag](https://www.w3schools.com/tags/tag_head.asp)
+* [HTML Head Tag - Container for Metadata](https://www.w3schools.com/tags/tag_head.asp)
 
 * [HTML Body Tag - Define Main Content](https://www.w3schools.com/tags/tag_body.asp#:~:text=The%20tag%20defines%20the,element%20in%20an%20HTML%20document.)
 
 * [HTML DOCTYPE Declaration](https://www.w3schools.com/tags/tag_doctype.asp)
 
-* [HTML Meta tag](https://www.w3schools.com/tags/tag_meta.asp)
+* [HTML Meta tag - Defines Metadata](https://www.w3schools.com/tags/tag_meta.asp)
