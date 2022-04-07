@@ -28,30 +28,3 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Site URL ##
 https://gd741.github.io/Javascript-Password-Generator/
-
-
-
-
-* [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-* [HTML DOCTYPE Declaration](https://www.w3schools.com/tags/tag_doctype.asp)
-
-* [Head Tag - Container for Metadata](https://www.w3schools.com/tags/tag_head.asp)
-
-* [Meta tag - Defines Metadata](https://www.w3schools.com/tags/tag_meta.asp)
-
-* [Link Tag - Linking the CSS](https://www.w3schools.com/tags/tag_link.asp#:~:text=The%20tag%20defines%20the,element%2C%20it%20contains%20attributes%20only.)
-
-* [Body Tag - Define Main Content](https://www.w3schools.com/tags/tag_body.asp#:~:text=The%20tag%20defines%20the,element%20in%20an%20HTML%20document.)
-
-* [Div Tag - Defining Divisions](https://www.w3schools.com/tags/tag_div.asp#:~:text=The%20tag%20defines%20a,inside%20the%20tag!)
-
-* [W3.CSS Modal - HTML/CSS/Javascript](https://www.w3schools.com/w3css/w3css_modal.asp)
-
-* [Paragraph Tag - Defining a Paragraph](https://www.w3schools.com/tags/tag_p.asp)
-
-* [Form Tag - Creating Form in Conjunction with Input Tag](https://www.w3schools.com/tags/tag_form.asp)
-
-* [Input Tag - Inputting Information](https://www.w3schools.com/tags/tag_input.asp)
-
-* [Button Tag - Defines a Clickable Button](https://www.w3schools.com/tags/tag_button.asp)
